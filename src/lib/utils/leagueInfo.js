@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "784378277455405056"; // your league ID
-export const leagueName = "Big Bois Dynasty League"; // your league name
+export const leagueName = "Super Friends Dynasty League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to the Super Friends Dynasty League. The league was founded in 2021, by 16 average blokes who think they know better than actual paid coaches and executives.</p>
   <p>This league welcomes challengers from three different countries, Hong Kong, USA and Australia, therefore making it more prestigious than the actual NFL.</p>
-  <p>Our current reigning, defending, champion is Vincent Chen out of Hong Kong, who cucked the evil Commish Nathan "Fudge Goodell" McGrath, in the 2021/2022 Super Friends Champtionship</p>
+  <p>Our current reigning, defending, champion is Vincent Chen out of Hong Kong, who cucked the evil Commish Nathan "Fudge Goodell" McGrath, in the 2021/2022 Super Friends Championship</p>
 `;
 
 /*   STEP 3   */
